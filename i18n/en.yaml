@@ -2,10 +2,10 @@
   translation: "Home"
 
 - id: templateBy
-  translation: "Template by"
+  translation: "I used some templates from"
 
 - id: portedBy
-  translation: "Ported to Hugo by"
+  translation: "They helped make this possible. Ported to Hugo by"
 
 - id: contactGoTo
   translation: "Go to contact page"
